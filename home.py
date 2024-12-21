@@ -5,7 +5,7 @@ def main():
     st.title("Curriculum Vitae")
 
     # Foto
-    st.image("foto.jpg", width=150, caption="Foto Saya")  # Ganti 'foto.jpg' dengan file foto Anda
+    st.image("foto.png", width=150, caption="Foto Saya")  # Ganti 'foto.jpg' dengan file foto Anda
 
     # Biodata
     st.header("Biodata")
